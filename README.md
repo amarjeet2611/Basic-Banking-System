@@ -20,7 +20,7 @@ This is a basic banking system website that allows users to view customers, tran
 
 To get a copy of the project up and running on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/basic-banking-system.git`
+1. Clone the repository: `git clone https://github.com/amarjeet2611/Basic-Banking-System`
 2. Set up a web server environment (e.g., XAMPP, WAMP, or any other server of your choice) and configure it to run PHP.
 3. Import the provided database schema into your MySQL server.
 4. Update the database connection details in the PHP files (`customers.php`, `customer.php`, `transfer.php`, `transaction_history.php`) to match your database credentials.
